@@ -1,7 +1,6 @@
 # Etna-Printf
- TIC-DEVC
-SVN : https://rendu-svn.etna-alternance.net/v2/2020_Prep'ETNA_TIC-DEVC_3_0-1628/Projet my_printf/
-VM : $$VM$$
+ ~~TIC-DEVC~~
+ 
 Votre projet doit compiler sur Debian.
 Vous devez fournir un Makefile qui compilera toutes vos sources.
 Votre Makefile doit contenir les régles suivantes :
