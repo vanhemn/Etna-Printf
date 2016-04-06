@@ -1,5 +1,5 @@
 # Etna-Printf
- ~~TIC-DEVC~~
+ ~TIC-DEVC~
  
 Votre projet doit compiler sur Debian.
 Vous devez fournir un Makefile qui compilera toutes vos sources.
